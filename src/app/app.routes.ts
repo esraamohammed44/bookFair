@@ -28,5 +28,4 @@ export const routes: Routes = [
     { path: 'Transports', component: TransportsComponent },
     { path: 'bookingTicket', component: BookingComponent },
     { path: '**', component: NotFoundComponent }
-
 ];
